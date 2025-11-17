@@ -20,6 +20,18 @@ Before you begin, ensure you have the following installed:
 - Node.js 18.x or later
 - pnpm 8.x or later
 
+## Screenshots
+ 
+ <img width="1512" height="860" alt="image" src="https://github.com/user-attachments/assets/90fbc832-1208-4850-9bc1-3ca686993b76" />
+
+<img width="678" height="833" alt="image" src="https://github.com/user-attachments/assets/45f2d959-7f2d-4326-8d04-5dc5f7adca52" />
+<img width="721" height="725" alt="image" src="https://github.com/user-attachments/assets/85cc6c9c-3b17-4569-a08e-b528c2ed624e" />
+<img width="1510" height="866" alt="image" src="https://github.com/user-attachments/assets/64e1c189-d8e9-4888-bfcb-c3e896f4c4e6" />
+<img width="1512" height="854" alt="image" src="https://github.com/user-attachments/assets/d952e44d-6169-4a82-bc94-6b4bebaf914e" />
+<img width="1461" height="602" alt="image" src="https://github.com/user-attachments/assets/4197560b-f3a0-4844-9131-35a711603c21" />
+
+
+
 ## 🛠️ Setup Instructions
 
 1. **Clone the repository** (or use this directory):
