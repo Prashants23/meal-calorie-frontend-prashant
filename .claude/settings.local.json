@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(lsof:*)",
+      "Bash(xargs kill:*)",
+      "Bash(rm:*)",
+      "Bash(pnpm list:*)",
+      "Bash(pnpm run dev)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
